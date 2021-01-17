@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BluLupo&show_icons=true">
+
 ### Hi there 👋
 
 - :house: I live in Turin
