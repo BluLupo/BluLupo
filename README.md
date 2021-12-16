@@ -10,6 +10,7 @@
 ### 🔨 Languages and Tools:
 - Python 3.6+
 - PHP 7.2+
+- CodeIgniter
 - MariaDB/MySQL/SQL Server
 - Linux (Ubuntu ; Debian; Fedora; OpenSuse)
 
