@@ -9,6 +9,7 @@
 
 ### 🔨 Languages and Tools:
 - Python 3.6+
+- Python Flask
 - PHP 7.2+
 - CodeIgniter
 - MariaDB/MySQL/SQL Server
