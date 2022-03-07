@@ -32,6 +32,7 @@
 <p><b>External</b></p>
 
 - [Personal Cloud](https://cloud.hersel.it)
+- [Personal Music](https://music.hersel.it)
 
 <hr>
 
