@@ -20,10 +20,15 @@
 <hr>
 
 ### 🛠️ My Projects
+
+<p>GitHub</p>
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
 - [Telegram Bot](https://github.com/Squirrel-Network/nebula8)
 - [Python Flask Full API](https://github.com/Squirrel-Network/api_nebula)
 - [Knowhere](https://github.com/Squirrel-Network/Knowhere)
+
+<p>External</p>
+- [Personal Cloud](https://cloud.hersel.it)
 
 <hr>
 
