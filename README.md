@@ -5,6 +5,7 @@
 - :house: I live in Turin
 - :snake: I like Python
 - :earth_africa: check out [my website](https://hersel.it)
+- :earth_africa: check out [my blog](https://blog.hersel.it)
 
 
 ### 🔨 Languages and Tools:
