@@ -21,7 +21,7 @@
 
 ### 🛠️ My Projects
 
-<p>GitHub</p>
+<p><b>GitHub</b></p>
 
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
 - [Telegram Bot](https://github.com/Squirrel-Network/nebula8)
@@ -29,7 +29,7 @@
 - [Knowhere](https://github.com/Squirrel-Network/Knowhere)
 
 
-<p>External</p>
+<p><b>External</b></p>
 
 - [Personal Cloud](https://cloud.hersel.it)
 
