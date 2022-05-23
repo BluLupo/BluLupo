@@ -14,6 +14,7 @@
 - PHP 7.2+
 - CodeIgniter
 - MariaDB/MySQL/SQL Server
+- Redis
 - Linux (Ubuntu ; Debian; Fedora; OpenSuse)
 
 
