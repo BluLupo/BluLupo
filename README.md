@@ -12,6 +12,7 @@
 - Python 3.6+
 - Python Flask
 - PHP 7.2+
+- Golang 
 - CodeIgniter
 - MariaDB/MySQL/SQL Server
 - Redis
