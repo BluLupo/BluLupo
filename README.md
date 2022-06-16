@@ -14,7 +14,7 @@
 - PHP 7.2+
 - Golang 
 - CodeIgniter
-- MariaDB/MySQL/SQL Server
+- MariaDB/MySQL/SQL Server/PostGreSQL
 - Redis
 - Linux (Ubuntu ; Debian; Fedora; OpenSuse)
 
