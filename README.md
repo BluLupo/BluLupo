@@ -9,18 +9,10 @@
 
 
 ### 🔨 Languages and Tools:
-- Python 3.6+
-- Python Flask
-- PHP 7.2+
-- Golang 
-- CodeIgniter
-- MariaDB/MySQL/SQL Server/PostGreSQL
-- Redis
-- Linux (Ubuntu ; Debian; Fedora; OpenSuse)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,php,git,docker,mysql" />
   </a>
 </p>
 
