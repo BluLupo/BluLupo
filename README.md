@@ -10,11 +10,8 @@
 
 ### 🔨 Languages and Tools:
 
-<p align="center">
-  <a href="https://hersel.it">
-    <img src="https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis&perline=3)](https://skillicons.dev)
+
 
 
 <hr>
