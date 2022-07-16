@@ -10,7 +10,7 @@
 
 ### 🔨 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis,debian&perline=3)](https://skillicons.dev)
 
 
 
