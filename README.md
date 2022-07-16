@@ -11,8 +11,8 @@
 ### 🔨 Languages and Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,php,git,docker,mysql" />
+  <a href="https://hersel.it">
+    <img src="https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis" />
   </a>
 </p>
 
