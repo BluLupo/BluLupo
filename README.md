@@ -10,7 +10,7 @@
 
 ### 🔨 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis,flask&perline=3)](https://hersel.it)
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,git,docker,mysql,postgresql,redis,flask,bootstrap,html&perline=3)](https://hersel.it)
 
 
 
