@@ -19,6 +19,7 @@
 
 <p><b>GitHub</b></p>
 
+- [GoBotApi](https://github.com/Squirrel-Network/goBotApi)
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
 - [Telegram Bot](https://github.com/Squirrel-Network/nebula8)
 - [Python Flask Full API](https://github.com/Squirrel-Network/api_nebula)
