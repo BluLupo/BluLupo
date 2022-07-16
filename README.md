@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,redis&perline=3)](https://hersel.it)
 
-### 🔨 Tools:
+### ⚙️ Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,docker,flask,bootstrap&perline=3)](https://hersel.it)
 
