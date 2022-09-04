@@ -37,3 +37,4 @@
 
 ### 👥 Organizations
 - [SquirrelNetwork](https://github.com/Squirrel-Network)
+- [GoBotApi](https://github.com/gobotapi)
