@@ -24,6 +24,7 @@
 - [Telegram Bot](https://github.com/Squirrel-Network/nebula8)
 - [Python Flask Full API](https://github.com/Squirrel-Network/api_nebula)
 - [Knowhere](https://github.com/Squirrel-Network/Knowhere)
+- [Script Backup DB](https://github.com/BluLupo/BackupDatabase)
 
 
 <p><b>External</b></p>
