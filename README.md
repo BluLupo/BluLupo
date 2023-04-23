@@ -8,10 +8,17 @@
 - :earth_africa: check out [my website](https://hersel.it)
 - :earth_africa: check out [my blog](https://blog.hersel.it)
 
-### 🔨 Languages, Database, Tools:
+### 🔨 Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,sql&perline=6)](https://hersel.it)
+
+### ⚙️ Databases
 
 [![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,vscode&perline=6)](https://hersel.it)
 
+### 🛠 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,vscode&perline=6)](https://hersel.it)
 
 <hr>
 
