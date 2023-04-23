@@ -10,7 +10,7 @@
 
 ### 🔨 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,grafana,linux,vscode&perline=6)](https://hersel.it)
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,grafana,linux&perline=6)](https://hersel.it)
 
 <hr>
 
