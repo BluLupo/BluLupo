@@ -4,21 +4,13 @@
 
 - :house: I live in Turin
 - :snake: I like Python
-- 🌱 I’m currently learning Golang, Docker and Windows Server
+- 🌱 I’m currently learning Golang
 - :earth_africa: check out [my website](https://hersel.it)
 - :earth_africa: check out [my blog](https://blog.hersel.it)
 
-### 🔨 Languages:
+### 🔨 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,sql&perline=6)](https://hersel.it)
-
-### ⚙️ Databases
-
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,vscode&perline=6)](https://hersel.it)
-
-### 🛠 Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,vscode&perline=6)](https://hersel.it)
+[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,vscode&perline=6)](https://hersel.it
 
 <hr>
 
