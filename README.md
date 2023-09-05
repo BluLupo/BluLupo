@@ -25,7 +25,7 @@
 
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
 - [Telegram Bot](https://github.com/Squirrel-Network/nebula10)
-- [Python Flask Full API](https://github.com/Squirrel-Network/api_nebula)
+- [Python FastAPI API](https://github.com/Squirrel-Network/api_nebula)
 - [Knowhere](https://github.com/Squirrel-Network/Knowhere)
 - [Script Backup DB](https://github.com/BluLupo/BackupDatabase)
 
