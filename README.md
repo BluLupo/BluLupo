@@ -36,11 +36,7 @@ if __name__ == '__main__':
     me = BluLupo()
     print(me)
 
-```  
-
-### 🔨 My Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=python,php,golang,html,css,mysql,postgresql,redis,nginx,nodejs,github,git,docker,flask,bootstrap,wordpress,grafana,linux&perline=6)](https://hersel.it)
+```
 
 <hr>
 
@@ -63,10 +59,4 @@ if __name__ == '__main__':
 <p><b>External</b></p>
 
 - [Personal Music](https://music.hersel.it)
-- [Matomo Analytics](https://analytics.hersel.it)
 
-
-<hr>
-
-### 👥 Organizations
-- [SquirrelNetwork](https://github.com/Squirrel-Network)
