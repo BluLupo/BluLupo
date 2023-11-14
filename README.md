@@ -8,7 +8,7 @@
 - :earth_africa: check out [my website](https://hersel.it)
 - :earth_africa: check out [my blog](https://blog.hersel.it)
 
-```
+```python
 class BluLupo:
 
     def __init__(self):
