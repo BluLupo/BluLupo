@@ -50,13 +50,14 @@ if __name__ == '__main__':
 <p><b>GitHub</b></p>
 
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
-- [Telegram Bot](https://github.com/Squirrel-Network/nebula10)
-- [Python FastAPI API](https://github.com/Squirrel-Network/api_nebula)
-- [Knowhere](https://github.com/Squirrel-Network/Knowhere)
-- [Script Backup DB](https://github.com/BluLupo/BackupDatabase)
+- [Telegram Bot](https://github.com/ChatControlCenter/chatcontrolcenter)
+- [Python FastAPI API](https://github.com/ChatControlCenter/api)
+- [Server Script](https://github.com/BluLupo/server-script)
 
 
 <p><b>External</b></p>
 
-- [Personal Music](https://music.hersel.it)
+- [Personal Cloud](https://cloud.hersel.it)
+- [Personal Matomo](https://analytics.hersel.it)
+- [Personal Grafana](https://grafana.hersel.it)
 
