@@ -4,9 +4,10 @@
 
 - :house: I live in Turin
 - :snake: I like Python
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React
 - :earth_africa: check out [my website](https://hersel.it)
 - :earth_africa: check out [my blog](https://hersel.it/blog)
+- :earth_africa: check out [my codewars](https://www.codewars.com/users/BluLupo)
 
 ```python
 class BluLupo:
@@ -23,7 +24,7 @@ class BluLupo:
             'database': ['PostgreSQL', 'MySQL', 'SQL Server', 'Redis'],
             'devops': ['Docker', 'Linux', 'Proxmox','VMWare','Kubernetes'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Nginx'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Nginx','Nginx Proxy Manager'],
             'misc': ['HL7-FHIR', 'Agile', 'Hardware-Expert']
         }
         self.architecture = ['MVC', 'REST-API', 'Headless']
@@ -38,7 +39,7 @@ if __name__ == '__main__':
 
 ```
 
-<hr>
+
 
 ### Badges
 
