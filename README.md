@@ -44,7 +44,7 @@ if __name__ == '__main__':
 ### Badges
 
 [![An image of @blulupo0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blulupo0)](https://holopin.io/@blulupo0)
-<hr>
+
 
 ### 🛠️ My Projects
 
