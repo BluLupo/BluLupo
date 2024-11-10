@@ -6,7 +6,7 @@
 - :snake: I like Python
 - 🌱 I’m currently learning React
 - :earth_africa: check out [my website](https://hersel.it)
-- :earth_africa: check out [my blog](https://hersel.it/blog)
+- :earth_africa: check out [my blog](https://blog.hersel.it)
 - :earth_africa: check out [my codewars](https://www.codewars.com/users/BluLupo)
 
 ```python
