@@ -4,7 +4,7 @@
 
 - :house: I live in Turin
 - :snake: I like Python
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ProxMox
 - :earth_africa: check out [my website](https://hersel.it)
 - :earth_africa: check out [my blog](https://blog.hersel.it)
 - :earth_africa: check out [my codewars](https://www.codewars.com/users/BluLupo)
@@ -51,14 +51,13 @@ if __name__ == '__main__':
 <p><b>GitHub</b></p>
 
 - [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
-- [Telegram Bot](https://github.com/ChatControlCenter/chatcontrolcenter)
 - [Python FastAPI API](https://github.com/ChatControlCenter/api)
 - [Server Script](https://github.com/BluLupo/server-script)
 
 
 <p><b>External</b></p>
 
-- [Personal Cloud](https://cloud.hersel.it)
+- [Personal Cloud](https://cloud.gwserver.it)
 - [Personal Matomo](https://analytics.hersel.it)
 - [Personal Grafana](https://grafana.hersel.it)
 
