@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 <p><b>GitHub</b></p>
 
-- [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
+- [Python Quart Personal Website](https://github.com/BluLupo/hersel.it)
 - [Server Script](https://github.com/BluLupo/server-script)
 - [ByteStash Personal](https://bytestash.gwserver.it/public/snippets)
 
