@@ -15,7 +15,7 @@ class BluLupo:
     def __init__(self):
         self.username = 'BluLupo'
         self.name = 'Hersel Giannella'
-        self.position = 'Analyst & System Integrator & PythonDev'
+        self.position = 'Systems Engineer and Programmer Analyst'
         self.web = 'https://hersel.it'
         self.blog = 'https://blog.hersel.it'
         self.linkedin = 'https://linkedin.com/in/hersel-giannella-654580111'
@@ -53,6 +53,7 @@ if __name__ == '__main__':
 - [Python Quart Personal Website](https://github.com/BluLupo/hersel.it)
 - [Server Script](https://github.com/BluLupo/server-script)
 - [ByteStash Personal](https://bytestash.gwserver.it/public/snippets)
+- [Restaurant Visit](https://restaurant.gwserver.it)
 
 
 <p><b>External</b></p>
