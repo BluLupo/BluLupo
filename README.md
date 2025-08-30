@@ -53,7 +53,8 @@ if __name__ == '__main__':
 - [Python Quart Personal Website](https://github.com/BluLupo/hersel.it)
 - [Server Script](https://github.com/BluLupo/server-script)
 - [ByteStash Personal](https://bytestash.gwserver.it/public/snippets)
-- [Restaurant Visit](https://restaurant.gwserver.it)
+- [Restaurant Visit](https://restaurant.hersel.it)
+- [Shopping List IRL](https://spesa.hersel.it)
 
 
 <p><b>External</b></p>
