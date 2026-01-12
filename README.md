@@ -96,6 +96,10 @@ me.say_hi()
 | 🍽️ **Restaurant Visit** | Track and rate restaurant visits | [restaurant.hersel.it](https://restaurant.hersel.it) |
 | 🛒 **Shopping List IRL** | Real-life shopping list manager | [spesa.hersel.it](https://spesa.hersel.it) |
 | 📝 **ByteStash Personal** | Personal code snippets collection | [bytestash.gwserver.it](https://bytestash.gwserver.it/public/snippets) |
+| ☁️ **Cloud Personale** | Personal cloud storage | [cloud.gwserver.it](https://cloud.gwserver.it) |
+| 🍳 **Ricettario** | Personal recipe collection | [recipe.gwserver.it](https://recipe.gwserver.it) |
+| 🎵 **Music Streaming** | Personal music streaming | [music.gwserver.it](https://music.gwserver.it) |
+| ⚙️ **n8n** | Workflow automation | [n8n.gwserver.it](https://n8n.gwserver.it) |
 
 ---
 
