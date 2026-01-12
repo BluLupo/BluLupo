@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BluLupo&show_icons=true">
-
 ### <h2> Hi, I'm BluLupo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - :house: I live in Turin
@@ -50,7 +48,7 @@ if __name__ == '__main__':
 
 <p><b>GitHub</b></p>
 
-- [Python Quart Personal Website](https://github.com/BluLupo/hersel.it)
+- [Python Flask Personal Website](https://github.com/BluLupo/hersel.it)
 - [Server Script](https://github.com/BluLupo/server-script)
 - [ByteStash Personal](https://bytestash.gwserver.it/public/snippets)
 - [Restaurant Visit](https://restaurant.hersel.it)
